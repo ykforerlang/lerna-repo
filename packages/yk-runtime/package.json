@@ -1,0 +1,27 @@
+{
+  "name": "yk-runtime",
+  "version": "2.3.0",
+  "description": "runtime test",
+  "author": "yankang <yankang@jd.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "src/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.m.jd.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "yk-abcd": "file:../yk-abcd",
+    "yk-main": "file:../yk-main",
+    "yk-uvwx": "file:../yk-uvwx"
+  }
+}
