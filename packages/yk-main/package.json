@@ -19,7 +19,8 @@
     "build": "rollup -c"
   },
   "dependencies": {
-    "yk-abcd": "file:../yk-abcd",
-    "yk-uvwx": "file:../yk-uvwx"
-  }
+    "yk-abcd": "^2.3.1-alpha.3",
+    "yk-uvwx": "^2.3.1-alpha.3"
+  },
+  "gitHead": "2fa99f33bb7559b62b73680b4dc603ce1a9ed7a5"
 }

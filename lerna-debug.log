@@ -1,0 +1,5 @@
+54 error Error: Command failed: git tag v2.3.1-alpha.2 -m v2.3.1-alpha.2
+54 error fatal: tag 'v2.3.1-alpha.2' already exists
+54 error
+54 error     at makeError (/Volumes/work/transfer-engine/alita/lerna-repo/node_modules/execa/index.js:174:9)
+54 error     at /Volumes/work/transfer-engine/alita/lerna-repo/node_modules/execa/index.js:278:16
