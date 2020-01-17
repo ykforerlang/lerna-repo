@@ -11,11 +11,8 @@
     "test": "__tests__"
   },
   "files": [
-    "lib"
+    "src"
   ],
-  "publishConfig": {
-    "registry": "http://registry.m.jd.com"
-  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
@@ -24,5 +21,5 @@
     "yk-main": "^2.3.1-alpha.0",
     "yk-uvwx": "^2.3.1-alpha.0"
   },
-  "gitHead": "ecd4bb23a82da496d9604de6fba634f81b988f7f"
+  "gitHead": "746e91f4ec01095dadfc883838a435d811be2cde"
 }

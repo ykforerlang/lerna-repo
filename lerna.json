@@ -6,9 +6,7 @@
   "command": {
     "publish": {
       "message": "chore(release): publish",
-      "npmClientArgs": [
-        "--registry http://registry.npmjs.org"
-      ]
+      "registry": "http://registry.npmjs.org"
     },
     "bootstrap": {
       "npmClientArgs": [
@@ -16,5 +14,5 @@
       ]
     }
   },
-  "version": "2.3.1-alpha.2"
+  "version": "2.3.1-alpha.1"
 }
