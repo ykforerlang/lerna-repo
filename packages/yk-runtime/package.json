@@ -1,6 +1,6 @@
 {
   "name": "yk-runtime",
-  "version": "2.3.1-alpha.2",
+  "version": "2.3.1-alpha.3",
   "description": "runtime test",
   "author": "yankang <yankang@jd.com>",
   "homepage": "",
@@ -17,9 +17,9 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "yk-abcd": "^2.3.1-alpha.2",
-    "yk-main": "^2.3.1-alpha.2",
-    "yk-uvwx": "^2.3.1-alpha.2"
+    "yk-abcd": "^2.3.1-alpha.3",
+    "yk-main": "^2.3.1-alpha.3",
+    "yk-uvwx": "^2.3.1-alpha.3"
   },
   "gitHead": "746e91f4ec01095dadfc883838a435d811be2cde"
 }
