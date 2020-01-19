@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "yk-abcd": "^2.3.3",
     "yk-runtime": "^2.3.5-alpha.0"
   }
 }
