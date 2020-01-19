@@ -1,6 +1,6 @@
 {
   "name": "yk-abcd",
-  "version": "2.5.4",
+  "version": "2.5.5",
   "description": "yk-abcd",
   "keywords": [
     "test",
@@ -22,7 +22,5 @@
     "test": "echo \"Error: run tests from root\" && exit 1",
     "build": "rollup -c"
   },
-  "gitHead": "2fa99f33bb7559b62b73680b4dc603ce1a9ed7a5",
-  "dependencies": {
-  }
+  "gitHead": "2fa99f33bb7559b62b73680b4dc603ce1a9ed7a5"
 }
