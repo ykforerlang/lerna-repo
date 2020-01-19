@@ -1,6 +1,6 @@
 {
   "name": "yk-main",
-  "version": "2.3.1-alpha.6",
+  "version": "2.3.1-alpha.7",
   "description": "> TODO: description",
   "author": "yankang <yankang@jd.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "yk-abcd": "^2.3.1-alpha.6",
-    "yk-uvwx": "^2.3.1-alpha.4"
+    "yk-uvwx": "^2.3.1-alpha.7"
   },
   "gitHead": "2fa99f33bb7559b62b73680b4dc603ce1a9ed7a5"
 }
