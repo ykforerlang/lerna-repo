@@ -19,7 +19,8 @@
   "dependencies": {
     "yk-abcd": "file:../yk-abcd",
     "yk-main": "file:../yk-main",
-    "yk-uvwx": "file:../yk-uvwx"
+    "yk-uvwx": "file:../yk-uvwx",
+    "xxx:": "file:../xxx"
   },
   "gitHead": "2fa99f33bb7559b62b73680b4dc603ce1a9ed7a5"
 }
