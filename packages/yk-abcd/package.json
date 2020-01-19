@@ -24,6 +24,5 @@
   },
   "gitHead": "2fa99f33bb7559b62b73680b4dc603ce1a9ed7a5",
   "dependencies": {
-    "redux": "^4.0.5"
   }
 }

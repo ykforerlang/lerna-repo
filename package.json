@@ -2,13 +2,18 @@
   "name": "root",
   "private": true,
   "devDependencies": {
-    "@babel/core": "^7.8.3",
     "@babel/plugin-transform-runtime": "^7.8.3",
     "@babel/preset-env": "^7.8.3",
     "lerna": "^3.19.0",
     "rollup-plugin-babel": "^4.3.3"
   },
   "scripts": {
-    "prepublish": "echo root prepublish"
+    "pub": "lerna publish --exact"
+  },
+  "dependencies": {
+    "yk-abcd": "file:packages/yk-abcd",
+    "yk-main": "file:packages/yk-main",
+    "yk-runtime": "file:packages/yk-runtime",
+    "yk-uvwx": "file:packages/yk-uvwx"
   }
 }

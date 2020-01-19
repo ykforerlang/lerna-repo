@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "yk-runtime": "^2.5.1"
+    "yk-runtime": "file:../../packages/yk-runtime"
   }
 }
