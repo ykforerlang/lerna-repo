@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "yk-runtime": "^2.4.0"
+    "yk-runtime": "^2.5.1"
   }
 }

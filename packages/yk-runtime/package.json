@@ -14,7 +14,8 @@
     "src"
   ],
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "prepublish": "echo runtime prepublish"
   },
   "dependencies": {
     "mobx": "^5.15.2",
