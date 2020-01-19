@@ -17,6 +17,8 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
+    "mobx": "^5.15.2",
+    "redux": "^4.0.5",
     "yk-abcd": "file:../yk-abcd",
     "yk-main": "file:../yk-main",
     "yk-uvwx": "file:../yk-uvwx"

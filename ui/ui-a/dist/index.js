@@ -6,11 +6,6 @@ var A = _interopDefault(require('yk-abcd'));
 var U = _interopDefault(require('yk-uvwx'));
 var redux = _interopDefault(require('redux'));
 
-
-var x = require.resolve('redux')
-
-
-
 /**
  * Copyright (c) Areslabs.
  *
@@ -20,4 +15,4 @@ var x = require.resolve('redux')
  */
 A();
 U();
-console.log('redux:', redux, x);
+console.log('redux:', redux);

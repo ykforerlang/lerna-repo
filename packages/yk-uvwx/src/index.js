@@ -1,3 +1,3 @@
 export default function () {
-    console.log('Hello uvwx     !')
+    console.log('Hello uvwx       !')
 }

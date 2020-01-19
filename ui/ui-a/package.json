@@ -1,0 +1,20 @@
+{
+  "name": "ui-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "start": "node ./dist/index",
+    "build": "rollup -c"
+  },
+  "dependencies": {
+    "@babel/plugin-transform-runtime": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
+    "mobx": "^5.15.2",
+    "redux": "^4.0.5",
+    "rollup-plugin-babel": "^4.3.3"
+  }
+}
