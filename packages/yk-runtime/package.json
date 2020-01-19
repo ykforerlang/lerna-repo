@@ -17,9 +17,9 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "yk-abcd": "^2.3.1-alpha.6",
-    "yk-main": "^2.3.1-alpha.7",
-    "yk-uvwx": "^2.3.1-alpha.7"
+    "yk-abcd": "file:../yk-abcd",
+    "yk-main": "file:../yk-main",
+    "yk-uvwx": "file:../yk-uvwx"
   },
   "gitHead": "2fa99f33bb7559b62b73680b4dc603ce1a9ed7a5"
 }

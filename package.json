@@ -11,6 +11,7 @@
   "dependencies": {
     "yk-abcd": "file:packages/yk-abcd",
     "yk-main": "file:packages/yk-main",
+    "yk-runtime": "file:packages/yk-runtime",
     "yk-uvwx": "file:packages/yk-uvwx"
   }
 }
