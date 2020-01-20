@@ -1,0 +1,7 @@
+49 error Error: Command failed: git add -- packages/yk-abcd/package.json packages/yk-uvwx/package.json packages/yk-main/package.json packages/yk-main/package-lock.json packages/yk-runtime/package.json lerna.json
+49 error The following paths are ignored by one of your .gitignore files:
+49 error packages/yk-main/package-lock.json
+49 error Use -f if you really want to add them.
+49 error
+49 error     at makeError (/Volumes/work/transfer-engine/alita/lerna-repo/node_modules/execa/index.js:174:9)
+49 error     at /Volumes/work/transfer-engine/alita/lerna-repo/node_modules/execa/index.js:278:16
