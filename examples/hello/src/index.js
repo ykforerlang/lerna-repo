@@ -6,3 +6,7 @@
  *
  */
 
+
+import main from 'yk-main'
+
+console.log('xxx hello')
