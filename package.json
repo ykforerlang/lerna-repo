@@ -1,11 +1,14 @@
 {
   "name": "root",
+  "version": "2.5.7",
   "private": true,
   "devDependencies": {
     "@babel/core": "^7.8.3",
     "@babel/plugin-transform-runtime": "^7.8.3",
     "@babel/preset-env": "^7.8.3",
+    "cz-lerna-changelog": "^2.0.2",
     "lerna": "^3.19.0",
+    "lerna-changelog": "^0.8.3",
     "rollup-plugin-babel": "^4.3.3"
   },
   "scripts": {
@@ -16,5 +19,10 @@
     "yk-main": "file:packages/yk-main",
     "yk-runtime": "file:packages/yk-runtime",
     "yk-uvwx": "file:packages/yk-uvwx"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-lerna-changelog"
+    }
   }
 }
